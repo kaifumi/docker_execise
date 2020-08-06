@@ -1,2 +1,2 @@
-# FROM php:7.4-fpm
-# COPY php.ini /usr/local/etc/php/
+FROM php:7.4-fpm
+COPY php.ini /usr/local/etc/php/
